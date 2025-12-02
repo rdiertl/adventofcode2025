@@ -1,0 +1,16 @@
+import java.util.Scanner;
+import java.util.ArrayList;
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
+
+public class AdventofCode {
+   public static void main(String[] args) {
+      /* Type your code here. */
+      int zeroCounter = 0;
+    int currentNumber = 0;
+    int dialStart = 50;
+    ArrayList<String> turns = new ArrayList<String>();
+    
+   }
+}
